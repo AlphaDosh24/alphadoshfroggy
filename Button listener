@@ -1,0 +1,7 @@
+Button mybutton = (Button) findViewById(R.id.urbuttonid);
+mybutton.setOnClickListener(new View.OnClickListener(){
+@Override
+public void onClick(View v){
+//TODO
+}
+});
